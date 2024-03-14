@@ -1,0 +1,15 @@
+/home/j-itmentorapps/Documents/homespace/c-sharp-basic-minimalist/bin/Debug/net8.0/c-sharp-basic-minimalist
+/home/j-itmentorapps/Documents/homespace/c-sharp-basic-minimalist/bin/Debug/net8.0/c-sharp-basic-minimalist.deps.json
+/home/j-itmentorapps/Documents/homespace/c-sharp-basic-minimalist/bin/Debug/net8.0/c-sharp-basic-minimalist.runtimeconfig.json
+/home/j-itmentorapps/Documents/homespace/c-sharp-basic-minimalist/bin/Debug/net8.0/c-sharp-basic-minimalist.dll
+/home/j-itmentorapps/Documents/homespace/c-sharp-basic-minimalist/bin/Debug/net8.0/c-sharp-basic-minimalist.pdb
+/home/j-itmentorapps/Documents/homespace/c-sharp-basic-minimalist/obj/Debug/net8.0/c-sharp-basic-minimalist.GeneratedMSBuildEditorConfig.editorconfig
+/home/j-itmentorapps/Documents/homespace/c-sharp-basic-minimalist/obj/Debug/net8.0/c-sharp-basic-minimalist.AssemblyInfoInputs.cache
+/home/j-itmentorapps/Documents/homespace/c-sharp-basic-minimalist/obj/Debug/net8.0/c-sharp-basic-minimalist.AssemblyInfo.cs
+/home/j-itmentorapps/Documents/homespace/c-sharp-basic-minimalist/obj/Debug/net8.0/c-sharp-basic-minimalist.csproj.CoreCompileInputs.cache
+/home/j-itmentorapps/Documents/homespace/c-sharp-basic-minimalist/obj/Debug/net8.0/c-sharp-basic-minimalist.sourcelink.json
+/home/j-itmentorapps/Documents/homespace/c-sharp-basic-minimalist/obj/Debug/net8.0/c-sharp-basic-minimalist.dll
+/home/j-itmentorapps/Documents/homespace/c-sharp-basic-minimalist/obj/Debug/net8.0/refint/c-sharp-basic-minimalist.dll
+/home/j-itmentorapps/Documents/homespace/c-sharp-basic-minimalist/obj/Debug/net8.0/c-sharp-basic-minimalist.pdb
+/home/j-itmentorapps/Documents/homespace/c-sharp-basic-minimalist/obj/Debug/net8.0/c-sharp-basic-minimalist.genruntimeconfig.cache
+/home/j-itmentorapps/Documents/homespace/c-sharp-basic-minimalist/obj/Debug/net8.0/ref/c-sharp-basic-minimalist.dll
